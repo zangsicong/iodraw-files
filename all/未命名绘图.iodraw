@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AnziusBvASO5i-mr7ACQ-1" value="租户登记需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="AnziusBvASO5i-mr7ACQ-1" value="租户登记需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
