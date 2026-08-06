@@ -30,6 +30,9 @@
         <mxCell id="AnziusBvASO5i-mr7ACQ-4" value="租户登记需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="38" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AnziusBvASO5i-mr7ACQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="AnziusBvASO5i-mr7ACQ-5" target="AnziusBvASO5i-mr7ACQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-5" value="运营汇总需求，提交至建设" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="208" y="260" width="140" height="70" as="geometry" />
         </mxCell>
@@ -39,12 +42,6 @@
         <mxCell id="AnziusBvASO5i-mr7ACQ-8" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;每月15日&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;（节假日顺延）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="208" y="210" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AnziusBvASO5i-mr7ACQ-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="548" y="450" as="sourcePoint" />
-            <mxPoint x="598" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-15" value="建设内部进行&lt;div&gt;需求初评&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#ffff88;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="368" y="260" width="140" height="70" as="geometry" />
         </mxCell>
@@ -53,9 +50,6 @@
         </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-17" value="运营组会，建设与租户沟通需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="528" y="260" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="AnziusBvASO5i-mr7ACQ-18" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;每月15日&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;（节假日顺延）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="210" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-19" value="建设反馈评估结论及排期" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#ffff88;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="688" y="260" width="140" height="70" as="geometry" />
