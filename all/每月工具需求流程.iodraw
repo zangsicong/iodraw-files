@@ -67,7 +67,7 @@
           <mxGeometry x="688" y="260" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-20" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;7个工作日&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="688" y="210" width="135" height="30" as="geometry" />
+          <mxGeometry x="688" y="190" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;strokeWidth=2;" edge="1" parent="1" source="AnziusBvASO5i-mr7ACQ-21" target="AnziusBvASO5i-mr7ACQ-23">
           <mxGeometry relative="1" as="geometry" />
