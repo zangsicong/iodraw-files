@@ -55,7 +55,10 @@
           <mxGeometry x="560" y="260" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-18" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;每月15日&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;（节假日顺延）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="250" y="220" width="135" height="30" as="geometry" />
+          <mxGeometry x="562.5" y="210" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnziusBvASO5i-mr7ACQ-19" value="建设内部进行&lt;div&gt;需求初评&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#ffff88;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
