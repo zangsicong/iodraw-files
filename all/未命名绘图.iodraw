@@ -45,6 +45,9 @@
             <mxPoint x="630" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AnziusBvASO5i-mr7ACQ-15" value="运营汇总需求，提交至建设" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
