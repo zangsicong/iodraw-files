@@ -11,7 +11,13 @@
           <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnziusBvASO5i-mr7ACQ-3" value="租户登记需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnziusBvASO5i-mr7ACQ-4" value="租户登记需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnziusBvASO5i-mr7ACQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
