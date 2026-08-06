@@ -51,6 +51,9 @@
         <mxCell id="AnziusBvASO5i-mr7ACQ-16" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;5个工作日&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="135" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AnziusBvASO5i-mr7ACQ-17" value="运营组会，建设与租户沟通需求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontFamily=微软雅黑;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
