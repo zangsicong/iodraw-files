@@ -84,7 +84,7 @@
         <mxCell id="2r_IhzoEHYNy-A1lQEj_-1" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;每月15日前&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="30.5" y="460" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2r_IhzoEHYNy-A1lQEj_-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2r_IhzoEHYNy-A1lQEj_-2" value="对应平台工具需求管理工单流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
